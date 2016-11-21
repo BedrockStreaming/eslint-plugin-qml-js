@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-qml-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parse JS files in a QtQML project",
   "keywords": [
     "eslint",
@@ -10,9 +10,6 @@
   ],
   "author": "M6Web",
   "main": "lib/index.js",
-  "dependencies": {
-    "requireindex": "~1.1.0"
-  },
   "engines": {
     "node": ">=0.10.0"
   },

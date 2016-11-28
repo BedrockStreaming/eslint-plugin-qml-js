@@ -2,7 +2,7 @@
 
 Parse JS files with ESLint in a QtQML project.
 
-With this plugin, you can't parse QML files ! It only remove QML specific import statements in JS files and transform JS import in ES6 import to avoid parse error.
+With this plugin, you can't parse QML files ! It only remove QML specific import statements in JS files and transform JS import statements in ES6 ones to avoid parse error.
 
 ## Installation
 

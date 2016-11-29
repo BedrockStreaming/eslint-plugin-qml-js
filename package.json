@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-qml-js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Parse JS files in a QtQML project",
   "keywords": [
     "eslint",
